@@ -1,0 +1,8 @@
+﻿  TextInvaders.cpp
+C:\Users\matth\source\repos\TextInvaders\TextInvaders.cpp(109,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\matth\source\repos\TextInvaders\TextInvaders.cpp(804,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\TextInvaders\TextInvaders.cpp(1020,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\TextInvaders\TextInvaders.cpp(1021,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\source\repos\TextInvaders\TextInvaders.cpp(1166,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\source\repos\TextInvaders\TextInvaders.cpp(1179,27): warning C4018: '<': signed/unsigned mismatch
+  TextInvaders.vcxproj -> C:\Users\matth\source\repos\TextInvaders\Debug\TextInvaders.exe
